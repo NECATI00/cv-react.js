@@ -1,0 +1,37 @@
+.cv-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #333;
+  border-bottom: 2px solid #646cff;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.personal-info img {
+  margin: 10px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+a {
+  color: #646cff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}

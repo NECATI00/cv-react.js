@@ -1,0 +1,13 @@
+.cv-container {
+  max-width: 800px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+.personal-info, .education, .experience, .skills, .hobbies, .social-media-icons {
+  border: 1px solid #0ddd53;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
